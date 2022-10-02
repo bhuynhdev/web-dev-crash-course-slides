@@ -33,6 +33,14 @@ css: unocss
 
 ---
 
+# Agenda
+
+1. HTML
+2. CSS
+3. Cool demo: https://bh-demo-notecracker.netlify.app
+
+---
+
 # HTML
 
 HyperText Markup Language
@@ -142,3 +150,11 @@ layout: center
 ---
 src: "./css.md"
 ---
+<!-- CSS Page loaded-->
+---
+src: ./javascript.md
+---
+<!-- JavaScript page loaded -->
+---
+
+# Project time

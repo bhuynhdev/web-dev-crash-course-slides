@@ -8,6 +8,7 @@ Cascading Style Sheets
 
 ```html
 <link href="<path-to-style-file>.css" rel="stylesheet" />
+<style></style>
 ```
 
 - CSS starts with selectively choose one/many HTML elements, and setting the style rules
@@ -68,7 +69,6 @@ p {
   font-size: 2rem;
   text-align: left | right | center | justify | ...;
   display: inline | block | flex | grid | ...;
-  position: absolute | relative | fixed | sticky;
   color: lightblue | #a5b6c7 | rgb() | hsl();
   background-color: #0f0f0f | url("/image-link");
   border: 1px solid red;
@@ -104,7 +104,7 @@ More to learn about:
 
 <v-clicks>
 
-- Prepared component CSS: Bootstrap, Bulma, Material, etc.
+- Prepared CSS components: Bootstrap, Bulma, Material, etc.
 - Utility CSS: TailwindCSS, WindiCSS, etc.
 - Plug and play CSS: WaterCSS
 - CSS processor: SCSS, PostCSS
