@@ -37,7 +37,8 @@ css: unocss
 
 1. HTML
 2. CSS
-3. Cool demo: https://bh-demo-notecracker.netlify.app
+3. JavaScript
+4. Cool demo: https://bh-demo-notecracker.netlify.app
 
 ---
 
