@@ -118,7 +118,7 @@ HyperText Markup Language
 </ol>
 
 <form>
-  <input type="text|email|date|number|file" disabled placeholder="email" id="email-input"/>
+  <input type="text|email|date|number|file" disabled placeholder="email" id="email-input" required="true"/>
   <label for="email-input">Enter email:</label>
 </form>
 ```
@@ -135,10 +135,10 @@ HyperText Markup Language
 layout: center
 ---
 
-<div class="text-3xl text-center text-red-800 font-bold mt-5" v-click>
+<div class="text-6xl leading-loose text-center text-red-800 font-bold mt-5">
   DO NOT USE TAGS FOR STYLING PURPOSES
 </div>
 
 ---
-
-# CSS
+src: "./css.md"
+---
