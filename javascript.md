@@ -39,6 +39,8 @@ No, it's not Java
 
 # JavaScript basic
 
+https://codepen.io/baohuynhlam/pen/abGGRZG
+
 ```js
 const num = 3.1;
 let str = "Hello";
@@ -97,6 +99,9 @@ for (key in object) {}
 ---
 
 # DOM API
+
+https://codepen.io/baohuynhlam/pen/jOxxeYm
+
 ```js
 // Select an element
 const introElem = document.querySelector(".intro");
