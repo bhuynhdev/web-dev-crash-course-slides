@@ -101,6 +101,8 @@ HyperText Markup Language
 layout: center
 ---
 
-<div class="text-6xl leading-loose text-center text-red-800 font-bold mt-5">
+<img src="/html-meme.jpeg" alt="HTML for babies book meme" width="400" v-click />
+
+<div class="text-4xl leading-loose text-red-500 font-bold mt-5" v-click>
   DO NOT USE TAGS FOR STYLING PURPOSES
 </div>
