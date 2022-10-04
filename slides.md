@@ -3,7 +3,7 @@
 theme: default
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-background: https://source.unsplash.com/collection/94734566/1920x1080
+background: https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80
 # apply any windi css classes to the current slide
 class: "text-center"
 # https://sli.dev/custom/highlighters.html
@@ -32,6 +32,15 @@ css: unocss
 
 #### By: Bao Huynh @ [ACM@UC](https://acmatuc.org)
 
+<div class="grid grid-cols-2 place-items-center">
+  <div>
+    <img src="/makeuc.png" alt="MakeUC logo" width="250" class="block"/>
+  </div>
+  <div>
+    <img src="/acmatuc-logo.svg" alt="ACM@UC logo" width="250" class="block"/>
+  </div>
+</div>
+
 ---
 
 # Agenda
@@ -54,5 +63,4 @@ src: ./javascript.md
 ---
 <!-- JavaScript page loaded -->
 ---
-
 # Project time
