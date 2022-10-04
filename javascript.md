@@ -1,6 +1,28 @@
 # JavaScript
 
+<v-click>
+
 No, it's not Java
+
+</v-click>
+
+<v-click>
+
+Is your friends/kids texting about JavaScript ?
+
+</v-click>
+
+<v-clicks>
+
+- AF: **A**rrow **F**unction
+- ASAP: **AS**ync **A**wait and **P**romises
+- Jason: **Ja**va**s**cript **o**bject **n**otation
+
+</v-clicks>
+
+---
+
+# JavaScript
 
 -   Write in .js file to add interactivity to web pages
 
